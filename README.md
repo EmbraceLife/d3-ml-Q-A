@@ -27,12 +27,12 @@ Online Resources:
 [video guide1](https://www.youtube.com/watch?v=1BEidZzIWjM)      
 [video guide2](https://vimeo.com/91118854)   
 
-** 4 steps to set it up**   
-after the above 5 steps are done, install 3 packages globally with npm:    
+** 4 steps to set it up**    
 
-```
+after the above 5 steps are done, install 3 packages globally with `npm`:    
+
+
 1. `sudo npm install -g pygments`
 2. `sudo npm install -g coffe-script`
 3. `sudo npm install -g docco`
-4. `docco *.js` to create a folder `docs` with all html files for each js file
-```
+4. `docco *.js` to create a folder `docs` with all html files for each JS file
