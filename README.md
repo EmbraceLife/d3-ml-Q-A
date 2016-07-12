@@ -36,3 +36,18 @@ after the above 5 steps are done, install 3 packages globally with `npm`:
 2. `sudo npm install -g coffe-script`
 3. `sudo npm install -g docco`
 4. `docco *.js` to create a folder `docs` with all html files for each JS file
+
+
+### How to understand RegExp patterns?
+-------------------
+1. go to [RegExr.com](http://regexr.com/)
+2. paste the pattern you want to understand
+3. mouse hover to see explanation
+
+
+
+
+### How to debug/understand complex source code?
+-------------------
+1. comment out `export default`, `return` alike
+2. `console.log` key variables at key places
